@@ -1,6 +1,6 @@
 
 run:
-	factor day1.factor
+	factor day2.factor
 
 clean:
 	echo 'it\'s clean!'
